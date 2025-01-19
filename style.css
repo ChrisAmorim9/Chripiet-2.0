@@ -182,7 +182,7 @@ ul li a:hover {
 
 /* animation */
 
-@keyframes slide-in {
+/*@keyframes slide-in {
 from {
 left: 0;
 }
@@ -198,4 +198,4 @@ left: 50%;
 to{
 left: 0;
 }
-}
+}*/
